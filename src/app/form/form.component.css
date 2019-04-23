@@ -1,0 +1,20 @@
+.sidenav {
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    top: 33px;
+    left: 0;
+    background-color: rgb(255, 255, 255);
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+  .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-family: "Lato", sans-serif;
+    font-size: 20px;
+    color: #9a15e7;
+    display: block;
+  }
